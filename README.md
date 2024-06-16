@@ -23,9 +23,9 @@
 
 <!-- About Me -->
 ## About Me
-- 🚀 Enthusiastic Web Developer with a passion for creating interactive applications.
 - 💼 Currently seeking internship opportunities to apply and enhance my skills.
-
+- 🌱 I'm currently studying at the Post and Telecommunications Institute of Technology, Ho Chi Minh city - majoring in Information Security.
+  
 <!-- Skills -->
 ## Skills
 - **Languages:** JavaScript, Java (basic), C++, HTML, CSS, SQL
