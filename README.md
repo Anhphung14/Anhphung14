@@ -30,6 +30,6 @@
 ## Skills
 - **Languages:** JavaScript, Java (basic), C++, HTML, CSS, SQL, PHP
 - **Front-End Development:** React.js, TailwindCSS
-- **Back-End Development:** Node.js (Express.js, NestJS), MongoDB, MySQL, PostgreSQL
+- **Back-End Development:** MongoDB, MySQL, PostgreSQL, Laravel
 - **Other:** Docker, Git, GitHub, GitLab
   
