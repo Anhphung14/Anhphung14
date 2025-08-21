@@ -19,6 +19,9 @@
   <a href="https://github.com/Anhphung14/vap">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Anhphung14/vap" alt="GitHub">
   </a>
+  <a href="https://voanhphung.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 <!-- About Me -->
