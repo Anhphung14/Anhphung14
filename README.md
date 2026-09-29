@@ -38,57 +38,40 @@
 
 ## 🛠️ Languages & Tools
 
-<h4 align="center">Programming Languages</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="28" height="28" />
+<p align="start">
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-333?style=flat&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/PHP-333?style=flat&logo=php&logoColor=777BB4" />
 </p>
 
-<h4 align="center">Frontend</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="28" height="28" />
+<p align="start">
+  <strong>Frontend</strong><br/>
+  <img src="https://img.shields.io/badge/React-333?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-333?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-333?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-333?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-<h4 align="center">Backend</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="28" height="28" />
+<p align="start">
+  <strong>Backend</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Spring_Boot-333?style=flat&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Laravel-333?style=flat&logo=laravel&logoColor=FF2D20" />
 </p>
 
-<h4 align="center">Database & Tools</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="28" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejsdev/vitejsdev-original.svg" alt="Vite" width="28" height="28" />
+<p align="start">
+  <strong>Database & Tools</strong><br/>
+  <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-333?style=flat&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Postman-333?style=flat&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Vite-333?style=flat&logo=vite&logoColor=646CFF" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Anhphung14">
     <img
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anhphung14&langs_count=8&layout=compact&theme=radical&border_radius=10"
@@ -96,7 +79,7 @@
       height="150"
     />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img
@@ -110,15 +93,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vap147/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Vo Anh Phung's LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="mailto:pphung1472@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Vo Anh Phung's Email" />
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
   &nbsp;
   <a href="https://voanhphung.io.vn/">
-    <img src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
